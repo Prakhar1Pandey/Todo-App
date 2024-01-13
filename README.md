@@ -2,9 +2,11 @@
 
 ## Key Technologies:
 
-Next.js: Framework for building server-rendered and statically generated React apps.
-Prisma: ORM (Object-Relational Mapper) that simplifies database interactions in Node.js and TypeScript.
-SQLite: File-based relational database for efficient storage.
+**Next.js:** Framework for building server-rendered and statically generated React apps.
+
+**Prisma:** ORM (Object-Relational Mapper) that simplifies database interactions in Node.js and TypeScript.
+
+**SQLite:** File-based relational database for efficient storage.
 
 ## Key Features:
 
